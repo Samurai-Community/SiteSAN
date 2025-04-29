@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:wght@100..900&display=swap');
 
 
-/* Загальні стилі */
 * {
   margin: 0;
   padding: 0;
@@ -25,7 +24,6 @@ img {
   display: block;
 }
 
-/* Header */
 header {
   background-color: #090909;
   width: 100%;
@@ -164,7 +162,6 @@ nav {
   color: #616161;
 }
 
-/* Бокова панель */
 .sidebar {
   flex: 1;
 }
